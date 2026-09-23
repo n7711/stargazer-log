@@ -1,2 +1,2 @@
 # stargazer-log
-Repositories I created
+My first repository
